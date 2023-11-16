@@ -100,7 +100,7 @@ void inorder()
 void menu()
 {
 	printf("\t\t\t1.Insert\n");
-    printf("\t\t\t2.In-order Traversal\n");
+        printf("\t\t\t2.In-order Traversal\n");
 	printf("\t\t\t3.Quit\n");
 	printf("\nEnter your choice : ");
 
